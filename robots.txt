@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sfarruk4.github.io/sfarrukh/sitemap.xml
